@@ -1,8 +1,7 @@
 # Fractal
 Making fractals in C with minilibx
 
-![Image of Mandelbrot]
-(https://github.com/cypri99/Fractal/blob/master/Screen%20Shot%202020-08-30%20at%2010.41.58%20PM.png)
+![Image of Mandelbrot](https://github.com/cypri99/Fractal/blob/master/Screen%20Shot%202020-08-30%20at%2010.41.58%20PM.png)
 
 HOW TO RUN:
 
