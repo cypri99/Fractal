@@ -1,6 +1,9 @@
 # Fractal
 Making fractals in C with minilibx
 
+![Image of Mandelbrot]
+(https://github.com/cypri99/Fractal/blob/master/Screen%20Shot%202020-08-30%20at%2010.41.58%20PM.png)
+
 HOW TO RUN:
 
 Run `make re` and am executable called fractal will be create. Runs only on OS X and Linux.
